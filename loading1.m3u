@@ -1,0 +1,18 @@
+# EXTM3U
+#EXTINF: -1 loading = "" group-title = "", loading
+ https://akamai.gcp.br.cdn.booyah.live/hls/151073/34850987_1080.m3u8
+# EXTM3U
+#EXTINF: -1 loading = "" group-title = "", Animes1
+https://stmv1.srvif.com/animetv/animetv/chunklist_w582848998.m3u8
+# EXTM3U
+#EXTINF: -1 loading = "" group-title = "", Animes2
+http://stmv1.srvstm.com/animetv2/animetv2/chunklist_w1925466967.m3u8
+# EXTM3U
+#EXTINF: -1 loading = "" group-title = "", Games online
+https://srv3.zcast.com.br/yeeaah/yeeaah/chunklist.m3u8
+# EXTM3U
+#EXTINF: -1 loading = "" group-title = "", Game Max
+https://stmv1.samcast.com.br/muriloevangelistadearaujo2973/muriloevangelistadearaujo2973/chunklist_w925208790.m3u8
+# EXTM3U
+#EXTINF: -1 loading = "" group-title = "", Filmes
+https://stmv1.samcast.com.br/demaistv6503/demaistv6503/chunklist_w2038632399.m3u8
