@@ -16,3 +16,12 @@ https://stmv1.samcast.com.br/muriloevangelistadearaujo2973/muriloevangelistadear
 # EXTM3U
 #EXTINF: -1 loading = "" group-title = "", Filmes
 https://stmv1.samcast.com.br/demaistv6503/demaistv6503/chunklist_w2038632399.m3u8
+# EXTM3U
+#EXTINF: -1 loading = "" group-title = "", Telecine Pipoca
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/telecinepipoca_fd937516_e120ced09ff14dded8591f6be879da5f80d61982/playlist.m3u8?jsf=YTozOntpOjA7czozNzoiMjgwNDoxNGQ6YjA4Mzo5MjU0OjU0ODU6NWQzOjViZGI6NWQwMyI7aToxO3M6MTE0OiJNb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvOTEuMC40NDcyLjc3IFNhZmFyaS81MzcuMzYiO2k6MjtpOjE2MjI4MzY2OTA7fQ%3D%3D
+
+
+
+
+
+
